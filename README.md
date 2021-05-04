@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Roshan kandel</h1>
-<h3 align="center">A passionate Full stack developer from nepal</h3>
+<h3 align="center">A passionate Developer/Programmer from Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roshankandel&label=Profile%20views&color=0e75b6&style=flat" alt="roshankandel" /> </p>
 
