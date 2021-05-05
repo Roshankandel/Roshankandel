@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roshankandel" alt="roshankandel" /></a> </p>
 
-- 🔭 I’m currently working on **Online voting system**
+
 
 - 🌱 I’m currently learning **Javascript,laravel**
 
-- 🤝 I’m looking for help with **Php and laravel**
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/Roshankandel](https://github.com/Roshankandel)
 
-- 💬 Ask me about **Web Development**
+
 
 - 📫 How to reach me **roshankdl207@gmail.com**
 
